@@ -7,7 +7,8 @@
   
   + Lê Bá Bảo Thái - MSV: 102230133
   + Phạm Công Trung - MSV: 102210081
-# DEMO dự án: https://www.youtube.com/watch?v=pk_OkAW4SvE
+# DEMO dự án: 
+https://www.youtube.com/watch?v=pk_OkAW4SvE
 # Hướng dẫn
 - _**collect_hand_data.py:**_ Thu thập mẫu lại từ đầu (nếu muốn) với phím N để đổi nhãn mẫu (UP, DOWN, LEFT, RIGHT) muốn thu thập, BACKSPACE để thu thập mẫu và lưu vào file hand_gesture_data.csv, bấm ESC để thoát quá trình thu thập mẫu
 - _**Train_model.py:**_ Sau khi thu thập mẫu thì hãy train model lại một lần nữa để có thể tạo thành mô hình dự đoán được lưu tại file hand_gesture_model.pkl
