@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/332a8009-b017-433e-9eed-be0de9cf853d)
 
 **DUT - Dự án GK Trí Tuệ Nhân Tạo - 2025**
-- **Đề tài:** Điều khiển Game Rắn Săn Mồi bằng nhận diện hình ảnh Webcam
+- **Đề tài:** Điều khiển Game Rắn Săn Mồi qua AI nhận diện hình ảnh Webcam
 - **Được thực hiện bởi:**
   
   + Lê Bá Bảo Thái - MSV: 102230133
